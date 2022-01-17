@@ -1,2 +1,4 @@
 # arunkumar-mariappan-zocdoc-SpirePdfDemo-
-PDF Form (AcroForm) Manipulation using Foxit .Net Core Library.  Important: Copy the “lib” folder from the “foxitpdfsdk_8_1_win_dotnetcore” folder to the project “FoxitDemo” folder.  For more details check here: https://developers.foxit.com/developer-hub/document/developer-guide-pdf-sdk-net-core/
+PDF Form (AcroForm) Manipulation using Spire.Pdf for .Net Core Library.  
+
+For more details check here: https://www.e-iceblue.com/Tutorials/Spire.PDF/Spire.PDF-Program-Guide/C-/VB.NET-Create-FormField-in-PDF.html
